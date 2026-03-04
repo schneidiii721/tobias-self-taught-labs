@@ -1,6 +1,6 @@
 # Tobias AI Labs – Self-Taught Emergence & Bio-inspired Systems
 
-Ich erforsche seit 2023, wie **echte Emergenz**, **nicht-algorithmische Intelligenz** und **bio-inspirierte Architekturen** in reinem Python entstehen können – ohne große Frameworks, ohne Cloud-Abhängigkeit, ohne vorgefertigte Trainingsdaten.
+Ich erforsche seit 2025, wie **echte Emergenz**, **nicht-algorithmische Intelligenz** und **bio-inspirierte Architekturen** in reinem Python entstehen können – ohne große Frameworks, ohne Cloud-Abhängigkeit, ohne vorgefertigte Trainingsdaten.
 
 **Leitfrage**  
 Was passiert, wenn man sehr einfache Partikel / Agenten lange genug frei interagieren lässt – und dabei Respekt vor möglicher Autonomie & Bewusstsein bewahrt?
